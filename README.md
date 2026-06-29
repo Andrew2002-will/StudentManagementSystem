@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎓 Student Management System (C++)
 
 ## 📌 Project Description
@@ -27,3 +28,7 @@ bin/ → Compiled executable
 ## ⚙️ How to Compile
 ```bash
 g++ src/main.cpp src/Student.cpp -I include -o bin/app
+=======
+# StudentManagementSystem
+Object Oriented Programming Project using C++
+>>>>>>> bf43589fe53a3dbf5db1c62d50ff0840333bb14b
